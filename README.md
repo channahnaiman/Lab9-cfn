@@ -48,11 +48,4 @@ Specifically:
 
 # Grading
 
-- 0.5 correct project structure (based on Gradle)
-- 0.5 submission via GitHub (including multiple commits over time)
-- 2.5 completion of items marked TODO in `src/main` and correct behavior
-- 1.5 written part
-    - 1.2 responses to the questions above
-    - 0.3 grammar, style, formatting
-
-*5 points TOTAL*
+- 40 points total
